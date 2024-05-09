@@ -18,11 +18,5 @@ A data analysis project using Python's NumPy, Pandas, and Matplotlib libraries t
 - `Python Project 3.ipynb`: Jupyter notebook containing the full analysis workflow.
 - `diabetes.csv`: Dataset used for the analysis.
 
-## How to Use
-1. Clone this repository.
-2. Ensure you have Jupyter Notebook installed, or use Google Colab to open the `.ipynb` file.
-3. Run the notebook cells sequentially to replicate the analysis.
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
